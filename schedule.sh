@@ -9,4 +9,4 @@ git add .
 git commit -m "auto-commit $(timestamp)"
 git push origin autoSave
 # echo Press Enter...
-read
+# read
