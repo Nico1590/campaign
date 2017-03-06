@@ -1,6 +1,6 @@
 #!/bin/sh
 cd C:/git/campaign
-git checkout dev
+git checkout master
 git add .
 git commit -am "made changes"
 git push
