@@ -1,8 +1,8 @@
 #!/bin/sh
 cd C:/git/campaign
-git checkout master
+git checkout -b autoSave
 git add .
-git commit -am "made changes"
-git push
+git commit -m "autoSave"
+git push origin autoSave
 echo Press Enter...
 read
